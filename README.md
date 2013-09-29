@@ -1,0 +1,4 @@
+rmiclientexample
+================
+
+Example RMI Client
